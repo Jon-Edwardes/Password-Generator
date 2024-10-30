@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.passwords{
+    display: flex;
+    
+    
+}
+
+.cb{
+    margin: 10px;
+}
+
+.slidecontainer{
+    display: flex;
+}
+button{
+    background-color: #10B981;
+    color: white;
+    border: none;
+    padding: 10px; 
+    border-radius: 5px;
+}
+h1 span{
+    color: #10B981;
+}
+
+.line{
+    border-top: 1px solid #2F3E53;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.btn2{
+    background-color: #273549;
+    min-width: 250px;
+    height: 40px;
+    color: #10B981;
+    margin-top: 20px;
+    margin-right: 10px;
+}
